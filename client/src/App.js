@@ -283,7 +283,7 @@ function App() {
           </table>
         </div>
       </div>
-      <dialog id="modal" className="relative" aria-labelledby="dialog_title" aria-describedby="dialog_description">
+      <dialog id="modal" aria-labelledby="dialog_title" aria-describedby="dialog_description">
         <Preview id={'Contrat'}>
           <div className="" id="contratpd">
             <h2 className="mt-5 mb-5 text-left">{NomDuContratpdf} </h2>
